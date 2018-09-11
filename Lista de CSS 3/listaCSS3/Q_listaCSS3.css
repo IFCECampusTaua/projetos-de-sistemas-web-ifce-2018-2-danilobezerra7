@@ -1,0 +1,68 @@
+/*stylesheet caixa de menus*/
+#tabela{
+    border:1px solid #DDDDDD;
+    font-family: Arial;
+    margin-left: 100px;
+    margin-right: 100px ;
+    width: 500px;
+    height: 300px;
+}
+.numco{
+color:#003366 ;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    border-bottom: 1px solid #DDDDDD;
+
+}
+.numcoo{
+    color:#1398BE ;
+    border-bottom: 1px solid #DDDDDD;
+}
+.numoo{
+    color:#DE9800 ;
+    border-bottom: 1px solid #DDDDDD;
+}
+.ticolu{
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+    height: 40px;
+    border-bottom: 1px solid #DDDDDD;
+}
+.notime{
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 1px solid #DDDDDD;
+}
+.qpontos{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f7f7f7f7;
+    border-bottom: 1px solid #DDDDDD;
+}
+.pontosco{
+    font-size: 14px;
+    color:#666666;
+    text-align: center;
+    border-bottom: 1px solid #DDDDDD;
+}
+.back{
+    background-color: #f7f7f7f7;
+    font: 14px;
+    color: #666666;
+    text-align: center;
+    border-bottom: 1px solid #DDDDDD;
+}
+.backkk{
+
+    font: 14px;
+    color: #666666;
+    text-align: center;
+    border-bottom: 1px solid #DDDDDD;
+}
