@@ -1,0 +1,54 @@
+/*#grad{
+    background-color: red;
+}*/
+
+
+.esq{
+
+     background:red;
+     float:left;
+    width:40%;
+    height: 20%;
+ }
+
+.dir{
+
+    background:orange;
+    float:right;
+    width:60%;
+    height:400px;
+}
+
+.cima{
+
+    background:lightblue;
+    float:left;
+    width:40%;
+    height:400px;
+}
+
+.baixo{
+
+    background:greenyellow;
+    float:right;
+    width:300px;
+    height:40%;
+}
+
+.baidir{
+
+    background:darkblue;
+    float:right;
+    width:510px;
+    height:40%;
+}
+
+.branco{
+
+    margin-top: 170px;
+    margin-right: 90px;
+    background:white;
+    float:right;
+    width:40%;
+    height:40%;
+}
